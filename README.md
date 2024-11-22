@@ -1,6 +1,6 @@
 # Blind 75 Neetcode Journey 🚀
 
-Welcome to my **Blind 75 Neetcode Journey**! 🌟 This is my personal repo where I tackle the famous Blind 75 problems one at a time, sharing my solutions, thoughts, and tips along the way. Whether you're grinding for your next coding interview or just curious about problem-solving, you're in the right place!
+Welcome to my **Blind 75 Neetcode Journey**! 🌟 This is my personal repo where I tackle the famous Blind 75 problems, sharing my solutions, thoughts, and tips along the way. Whether you're grinding for your next coding interview or just curious about problem-solving, you're in the right place!
 
 ---
 
