@@ -12,6 +12,8 @@ Output: true
 """
 
 
+
+
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool: 
         len_nums = len(nums)
@@ -23,8 +25,9 @@ class Solution:
 
         return False    
 
-
-         
+#Time Complexity is O(1)
+#Space Complexity is O(1)
+        
 solution = Solution()
 
 print(solution.hasDuplicate([1,2,3,3]))
