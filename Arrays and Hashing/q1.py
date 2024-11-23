@@ -25,8 +25,8 @@ class Solution:
 
         return False    
 
-#Time Complexity is O(1)
-#Space Complexity is O(1)
+#Time Complexity is O(n)
+#Space Complexity is O(n)
         
 solution = Solution()
 
