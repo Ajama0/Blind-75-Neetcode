@@ -31,3 +31,13 @@ class Solution:
 solution = Solution()
 
 print(solution.hasDuplicate([1,2,3,3]))
+
+
+
+
+
+
+
+
+
+
